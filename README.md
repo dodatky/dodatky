@@ -1,3 +1,1 @@
-# dodatky.github.io
-
-Website: dodatky.com.ua
+# Website: dodatky.com.ua
