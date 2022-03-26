@@ -1,0 +1,180 @@
+
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #666666;
+    line-height: 23px;
+    letter-spacing: 0.5px;
+}
+
+a,
+a:hover {
+	text-decoration: underline;
+}
+
+a {
+    color: #666666;
+}
+
+a:hover {
+    color: #333;
+}
+
+h1, h2 {
+    font-family: 'PT Serif', serif;
+    font-size: 1.625em;
+    font-weight: bold;
+    letter-spacing: 0.8px;
+    color: #666666;
+
+    margin-top: 50px;
+}
+
+h5 {
+    font-size: 1em;
+    font-weight: bold;
+    margin: 10px 0 2px;
+}
+h6 {
+    font-size: 1.125em;
+    font-weight: 600;
+    letter-spacing: 0.60px;
+    text-align: center;
+}
+
+
+.contact-img {
+    width: 100%;
+    max-width: 570px;
+    height: auto;
+}
+
+
+.menu-current {
+    color: #555 !important;
+}
+
+.form-group label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 0;
+    margin-left: 3%;
+}
+
+.form-group input,
+.form-group textarea,
+.form-group input:focus,
+.form-group textarea:focus {
+    /* width: 100%;
+    max-width: 400px; */
+    
+    background-color: #F3F3F3;
+    border: 0;
+    
+    margin: 0 auto;
+}
+
+.form-group input {
+    height: 40px;
+}
+
+.submit-button {
+    width: inherit;
+    height: inherit;
+    
+    background-color: #666666;
+    
+    color: #CFCFCF;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    
+    border: 0;
+    
+    padding: 9px 34px;
+ 
+}
+.submit-button:hover {
+    background-color: #444;
+}
+
+.form-group textarea {
+    height: 180px;
+}
+
+
+
+
+.navbar-nav a {
+    text-decoration: none;
+}
+
+.nav-main a {
+    font-size: 0.875em;
+    color: #555;
+    font-weight: bold;
+}
+
+.h-line {
+    width: 6.4375rem;
+    height: 3px;
+    background-color: #2AB3A7;
+
+    margin-bottom: 30px;
+}
+
+.header-main {
+    margin-top: 30px;
+}
+
+
+.slider-bg {
+    position: relative;
+    /*height: 225px;*/
+    
+    margin-top: 75px;
+    background-color: #F3F3F3;
+}
+
+.slider-container {
+    max-width: 970px;
+}
+
+.slider-container img {
+    /*position: absolute;
+    top: -38px;*/
+    margin-bottom: 1.1875em;
+    margin-top: -2.3125em;
+}
+
+.opacity-c {
+    opacity: 0.95;
+}
+
+.schedule {
+    font-size: 1.125em;
+    line-height: 30px;
+}
+
+.footer-bg {
+    background-color: #454545;
+    border-top: 6px solid #E3E3E3;
+
+    margin-top: 100px;
+}
+
+.footer-main {
+    padding: 21px 0 21px;
+
+    font-size: 0.8125em;
+    letter-spacing: 0.5px;
+    color: #B1B1B1;
+}
+
+.footer-main a {
+    color: #B1B1B1;
+    text-decoration: none;
+    margin-right: 25px;
+}
